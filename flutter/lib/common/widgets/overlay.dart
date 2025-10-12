@@ -694,7 +694,7 @@ class DraggableMobileActions extends StatelessWidget {
                     onPressed: onScreenKitschPressed,
                   ),*/
 
-                
+                  /*
                   AntiShakeButton(
                     text: "开无视",
                     scale: scale,
@@ -702,14 +702,14 @@ class DraggableMobileActions extends StatelessWidget {
                     disabledBackgroundColor: Colors.black26, 
                     onPressed: () => onScreenKitschPressed?.call('开'),
                   ),
-                    
+                  
                   AntiShakeButton(
                     text: "关无视",
                     scale: scale,
                     enabledBackgroundColor: Colors.red,   
                     disabledBackgroundColor: Colors.black26, 
                     onPressed: () => onScreenKitschPressed?.call('关'),
-                  ),
+                  ),*/
                
                    /*
                   ElevatedButton(
